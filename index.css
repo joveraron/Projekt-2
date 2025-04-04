@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+img {
+    width: 4.5vw;
+    height: 4.5vw;
+    margin: 0.25vw;
+}
+
+#menu {
+    height: 5vw;
+    width: 100%;
+    background-color: #2C3E50;
+    display: flex;
+    float: left;
+    text-align: center;
+}
+
+#etlap {
+    align-self: center;
+    margin-left: 80%;
+    font-size: 1.5vw;
+    color: #EAE0D5;
+    text-decoration: none;
+
+}
+
+#rolunk {
+    align-self: center;
+    margin-left: 3vw;
+    font-size: 1.5vw;
+    color: #EAE0D5;
+    text-decoration: none;
+}
+
+body {
+    background-color: hsl(31, 40%, 60%);
+}
+
+#cim {
+    font-size: 4vw;
+    margin-left: 10vw;
+    padding-top: 10vw;
+    color: #EAE0D5;
+    -webkit-text-stroke: 1.5px black;
+}
+
+#leiras {
+    width: 15vw;
+    margin-left: 10vw;
+}
+
+#yap {
+    font-size: 1.5vw;
+}
+
+#tart1 {
+    margin-top: 5vw;
+    margin-left: 10vw;
+    background-color: #2C3E50;
+    text-align: center;
+    width: 10vw;
+    border-radius: 13px;
+}
+
+#gomb1 {
+    font-size: 1.5vw;
+    text-decoration: none;
+    color: white;
+    padding-top: 5px;
+
+}
+
