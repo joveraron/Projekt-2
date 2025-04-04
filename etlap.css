@@ -1,0 +1,57 @@
+.menu * {
+    margin: 0;
+    padding: 0;
+}
+ 
+ 
+img {
+    width: 4.5vw;
+    height: 4.5vw;
+    margin: 0.25vw;
+}
+ 
+#menu {
+    height: 5vw;
+    width: 100%;
+    background-color: #2C3E50;
+    display: flex;
+    float: left;
+    text-align: center;
+}
+ 
+#etlap {
+    align-self: center;
+    margin-left: 80%;
+    font-size: 1.5vw;
+    color: #EAE0D5;
+ 
+}
+ 
+#rolunk {
+    align-self: center;
+    margin-left: 3vw;
+    font-size: 1.5vw;
+    color: #EAE0D5;
+}
+
+
+
+
+
+
+
+
+
+
+
+header {
+    place-items: left;
+    background-color: #2C3E50;
+
+}
+
+
+
+@media screen and (max-width: 1000px) {
+   
+}
