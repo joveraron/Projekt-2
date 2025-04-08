@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+img {
+    width: 4.5vw;
+    height: 4.5vw;
+    margin: 0.25vw;
+}
+
+#menu {
+    height: 5vw;
+    width: 100%;
+    background-color: #2C3E50;
+    display: flex;
+    float: left;
+    text-align: center;
+}
+
+#etlap {
+    align-self: center;
+    margin-left: 80%;
+    font-size: 1.5vw;
+    color: #EAE0D5;
+    text-decoration: none;
+
+}
+
+#rolunk {
+    align-self: center;
+    margin-left: 3vw;
+    font-size: 1.5vw;
+    color: #EAE0D5;
+    text-decoration: none;
+}
+
+body {
+    background-color: hsl(31, 40%, 60%);
+}
+
+#cim {
+    margin-top: 3vw;
+    margin-left: 10vw;
+    font-size: 4vw;
+    padding-top: 3vw;
+    color: #EAE0D5;
+    -webkit-text-stroke: 0.08vw black;
+}
+
+#leiras {
+    width: 15vw;
+    margin-left: -25vw;
+    margin-top: 11vw;
+}
+
+#yap {
+    font-size: 1.5vw;
+}
+
+#tart1 {
+    margin-top: 5vw;
+    margin-left: 10vw;
+    background-color: #2C3E50;
+    text-align: center;
+    width: 10vw;
+    border-radius: 13px;
+}
+
+#gomb1 {
+    font-size: 1.5vw;
+    text-decoration: none;
+    color: white;
+    padding-top: 5px;
+
+}
+
+#tart1 {
+    margin-top: 26vw;
+    margin-left: -85vw;
+    background-color: #2C3E50;
+    text-align: center;
+    width: 10vw;
+    border-radius: 13px;
+    height: 2vw;
+}
+
+#gomb1 {
+    font-size: 1.5vw;
+    text-decoration: none;
+    color: white;
+    padding-top: 5px;
+
+}
+
+#tart2 {
+    margin-top: 5vw;
+    margin-left: 4vw;
+    background-color: #FFFFFF;
+    text-align: center;
+    width: 10vw;
+    border-radius: 13px;
+    border: 2px solid #2C3E50;
+    height: 2vw;
+    margin-top: 26vw;
+}
+
+#gomb2 {
+    font-size: 1.5vw;
+    text-decoration: none;
+    color: #2C3E50;
+    padding-top: 5px;
+
+}
+
+#wrapper {
+    display: flex;
+    flex-direction: row;
+
+}
+
+#kep1 {
+    margin-left: 50vw;
+    height: 30vw;
+    width: 20vw;
+    padding-top: 3vw;
+}
+
+#wrapper2 {
+    display: flex;
+    flex-direction: row;
+    float: left;
+}
+
+#vel1 {
+    font-size: 1.5vw;
+}
+
+#tart3 {
+    width: 18vw;
+    text-align: center;
+    margin-top: 37vw;
+    margin-left: -25vw;
+}
+
+#vel2 {
+    font-size: 1.5vw;
+}
+
+#tart4 {
+    width: 18vw;
+    text-align: center;
+    margin-top: 37vw;
+    margin-left: 13vw;
+}
+
+#vel3 {
+    font-size: 1.5vw;
+}
+
+#tart5 {
+    width: 18vw;
+    text-align: center;
+    margin-top: 37vw;
+    margin-left: 13vw;
+}
+

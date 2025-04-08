@@ -1,0 +1,76 @@
+
+
+#container {
+    display: flex;
+    text-align: center;
+    margin: 0;
+    border: 1px solid black;
+    background-color: hsl(31, 40%, 60%);
+}
+
+#container2 {
+    display: grid;
+    gap:5vw;
+    text-align: center;
+    margin: 0;
+    border: 1px solid black;
+    background-color: hsl(31, 40%, 60%);
+
+}
+
+
+#bal {
+
+}
+
+
+
+#balle {
+    margin-top: 10vw;
+    margin-left: -23vw;
+    background-color: white;
+    padding: 2vw;
+}
+
+
+#kep {
+    width: 4.5vw;
+    height: 4.5vw;
+    margin: 0.25vw;
+}
+ 
+#menu {
+    height: 5vw;
+    width: 100%;
+    background-color: #2C3E50;
+    display: flex;
+    float: left;
+    text-align: center;
+}
+ 
+#etlap {
+    align-self: center;
+    margin-left: 80%;
+    font-size: 1.5vw;
+    color: #EAE0D5;
+    text-decoration: none;
+ 
+}
+ 
+#rolunk {
+    align-self: center;
+    margin-left: 3vw;
+    font-size: 1.5vw;
+    color: #EAE0D5;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 1000px) {
+   
+}
