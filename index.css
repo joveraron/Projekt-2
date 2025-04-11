@@ -278,14 +278,14 @@ body {
 
 @media only screen and (max-width: 1000px) {
     #menu {
-        height: 10vw;
+        height: 13vw;
         align-items: center;
     }
 
     #logo1 {
-        margin-left: 45vw;
-        width: 8vw;
-        height: 8vw;
+        margin-left: 44vw;
+        width: 11vw;
+        height: 11vw;
     }
         
     
@@ -297,5 +297,108 @@ body {
     #rolunk {
         display: none;
     }
+
+    #cim {
+        display: none;
     }
-}
+
+    #leiras {
+        margin-left: 10vw;
+        margin-top: 100vw;
+    }
+
+    #kep1 {
+        margin-left: 5vw;
+        height: 60vw;
+        width: 40vw;
+    }
+
+    #name1 {
+        display: none;
+    }
+
+    #kover1 {
+        display: none;
+    }
+
+    #name3 {
+        display: none;
+    }
+
+    #kover3 {
+        display: none;
+    }
+
+    #tart3 {
+        display: none;
+    }
+
+    #tart5 {
+        display: none;
+    }
+
+    #profil1 {
+        display: none;
+    }
+    #profil2 {
+        display: none;
+    }
+    #profil3 {
+        display: none;
+    }
+
+    #tart1 {
+        margin-left: -36.5vw;
+        height: 6.3vw;
+        width: 33vw;
+       text-align: unset;
+    }
+
+    #gomb1 {
+        font-size: 4.9vw;
+        margin-left: 7.5vw;
+    }
+
+    #tart2 {
+        margin-top: 40vw;
+        margin-left: -33.5vw;
+        height: 6.3vw;
+        width: 33vw;
+        text-align: unset;
+    }
+
+    #gomb2 {
+        font-size: 4.9vw;
+        margin-left: 5vw;
+    }
+
+    #logo2 {
+        display: none;
+    }
+
+    #link1 {
+        margin-left: -70vw;
+        margin-top: 100vw;
+    }
+
+    #link2 {
+        margin-top: 100vw;
+    }
+
+    #link3 {
+        margin-top: 100vw;
+    }
+
+    #link4 {
+        margin-top: 100vw;
+    }
+
+    #name2 {
+        margin-left: -20vw;
+    }
+
+    #tart4 {
+        margin-left: 0vw;
+    }
+    }
+
