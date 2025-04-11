@@ -54,6 +54,7 @@ body {
     width: 15vw;
     margin-left: -25vw;
     margin-top: 11vw;
+    order: 0;
 }
 
 #yap {
@@ -96,7 +97,6 @@ body {
 }
 
 #tart2 {
-    margin-top: 5vw;
     margin-left: 4vw;
     background-color: #FFFFFF;
     text-align: center;
@@ -277,6 +277,9 @@ body {
 
 
 @media only screen and (max-width: 1000px) {
+    #wrapper2 {
+        flex-direction: block;
+    }
     #menu {
         height: 13vw;
         align-items: center;
@@ -303,14 +306,23 @@ body {
     }
 
     #leiras {
-        margin-left: 10vw;
-        margin-top: 100vw;
+        margin-left: -35vw;
+        margin-top: 70vw;
+        width: 35vw;
+        order: 1;
+        text-align: center;
+    }
+
+    #yap {
+        font-size: 3.5vw;
     }
 
     #kep1 {
-        margin-left: 5vw;
+        margin-left: 30vw;
         height: 60vw;
         width: 40vw;
+        margin-top: 0vw;
+        order: 0;
     }
 
     #name1 {
@@ -361,7 +373,7 @@ body {
 
     #tart2 {
         margin-top: 40vw;
-        margin-left: -33.5vw;
+        margin-left: -33.2vw;
         height: 6.3vw;
         width: 33vw;
         text-align: unset;
@@ -377,28 +389,51 @@ body {
     }
 
     #link1 {
-        margin-left: -70vw;
-        margin-top: 100vw;
+        margin-left: -45vw;
+        margin-top: 150vw;
     }
 
     #link2 {
-        margin-top: 100vw;
+        margin-top: 150vw;
     }
 
     #link3 {
-        margin-top: 100vw;
+        margin-top: 150vw;
     }
 
     #link4 {
-        margin-top: 100vw;
+        margin-top: 150vw;
     }
 
     #name2 {
-        margin-left: -20vw;
+        margin-left: -42vw;
+        margin-top: 110vw;
+        font-size: 2.5vw;
     }
 
     #tart4 {
         margin-left: 0vw;
+    }
+
+    #vel2 {
+        margin-top: 80vw;
+        margin-left: -34vw;
+        width: 35vw;
+        font-size: 2.5vw;
+    }
+
+    .foot1 {
+        margin-top: 100vw;
+        margin-left: -50vw;
+    }
+
+    #foot1 {
+        margin-top: 170vw;
+        margin-left: -40vw;
+    }
+
+    #foot2 {
+        margin-left: -15vw;
     }
     }
 
