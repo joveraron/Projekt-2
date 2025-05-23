@@ -52,8 +52,8 @@ body {
 }
 
 #leiras {
-    width: 15vw;
-    margin-left: -25vw;
+    width: 25vw;
+    margin-left: -30vw;
     margin-top: 12vw;
     order: 0;
 }
@@ -75,7 +75,7 @@ body {
     color: #D9D9D9;
     font-size: 1.5vw;
     margin-top: 28vw;
-    margin-left: -85vw;
+    margin-left: -87vw;
     border: 2px solid #D9D9D9;
 }
 
@@ -147,7 +147,7 @@ body {
 
 #profil1 {
     height: 3vw;
-    width: 5vw;
+    width: 4.5vw;
     border-radius: 100px;
     background-color: #D9D9D9;
     margin-top: 43vw;
@@ -156,7 +156,7 @@ body {
 
 #profil2 {
     height: 3vw;
-    width: 5vw;
+    width: 4.5vw;
     border-radius: 100px;
     background-color: #D9D9D9;
     margin-top: 43vw;
@@ -165,7 +165,7 @@ body {
 
 #profil3 {
     height: 3vw;
-    width: 5vw;
+    width: 4.5vw;
     border-radius: 100px;
     background-color: #D9D9D9;
     margin-top: 43vw;
@@ -180,6 +180,7 @@ body {
 
 #kover1 {
     font-weight: bold;
+    width: 10vw;
 }
 
 #name2 {
@@ -245,7 +246,7 @@ body {
     width: 4vw;
     height: 3vw;
     margin-top: -5vw;
-    padding-bottom: 1.2vw;
+    padding-bottom: 0.2vw;
 }
 
 #link4 {
@@ -257,7 +258,8 @@ body {
     width: 3.5vw;
     height: 3.5vw;
     margin-top: -8vw;
-    padding-bottom: 1.7vw;
+    padding-bottom: 1.3vw;
+    margin-left: -6vw;
     
 }
 
