@@ -1,0 +1,548 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#logo1 {
+    width: 4.5vw;
+    height: 4.5vw;
+    margin: 0.25vw;
+    border-radius: 100px;
+}
+
+#menu {
+    height: 5vw;
+    width: 100%;
+    background-color: #2C3E50;
+    display: flex;
+    float: left;
+    text-align: center;
+}
+
+#etlap {
+    align-self: center;
+    margin-left: 80%;
+    font-size: 1.5vw;
+    color: #EAE0D5;
+    text-decoration: none;
+
+}
+
+#rolunk {
+    align-self: center;
+    margin-left: 3vw;
+    font-size: 1.5vw;
+    color: #EAE0D5;
+    text-decoration: none;
+}
+
+body {
+    background-color: hsl(31, 40%, 60%);
+}
+
+#cim {
+    margin-top: 3vw;
+    margin-left: 6vw;
+    font-size: 4vw;
+    padding-top: 3vw;
+    color: #EAE0D5;
+    -webkit-text-stroke: 0.08vw black;
+    width: 45vw;
+}
+
+#leiras {
+    width: 25vw;
+    margin-left: -30vw;
+    margin-top: 12vw;
+    order: 0;
+}
+
+#yap {
+    font-size: 1.5vw;
+}
+
+
+#gomb1 {
+    padding-top: 0vw;
+    padding-bottom: 0.5vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    background-color: #2C3E50;
+    height: 1.5vw;
+    border-radius: 1vw;
+    text-decoration: none;
+    color: #D9D9D9;
+    font-size: 1.5vw;
+    margin-top: 28vw;
+    margin-left: -87vw;
+    border: 2px solid #D9D9D9;
+}
+
+#gomb2 {
+    padding-top: 0vw;
+    padding-bottom: 0.5vw;
+    padding-left: 0.7vw;
+    padding-right: 0.5vw;
+    background-color: white;
+    height: 1.5vw;
+    border-radius: 1vw;
+    text-decoration: none;
+    color: #2C3E50;
+    font-size: 1.5vw;
+    margin-top: 28vw;
+    margin-left: 3vw;
+    border: 2px solid #2C3E50;
+    width: 12vw;
+}
+
+#kep1 {
+    margin-left: 50vw;
+    height: 30vw;
+    width: 20vw;
+    padding-top: 3vw;
+}
+
+#wrapper2 {
+    display: flex;
+    flex-direction: row;
+    float: left;
+}
+
+#vel1 {
+    font-size: 1.5vw;
+    width: 20vw;
+}
+
+#tart3 {
+    width: 18vw;
+    text-align: center;
+    margin-top: 37vw;
+    margin-left: -25vw;
+}
+
+#vel2 {
+    font-size: 1.5vw;
+    width: 20vw;
+}
+
+#tart4 {
+    width: 18vw;
+    text-align: center;
+    margin-top: 37vw;
+    margin-left: 13vw;
+}
+
+#vel3 {
+    font-size: 1.5vw;
+    width: 20vw;
+}
+
+#tart5 {
+    width: 18vw;
+    text-align: center;
+    margin-top: 37vw;
+    margin-left: 13vw;
+}
+
+#profil1 {
+    height: 3vw;
+    width: 4.5vw;
+    border-radius: 100px;
+    background-color: #D9D9D9;
+    margin-top: 43vw;
+    margin-left: -78vw;
+}
+
+#profil2 {
+    height: 3vw;
+    width: 4.5vw;
+    border-radius: 100px;
+    background-color: #D9D9D9;
+    margin-top: 43vw;
+    margin-left: 28vw;
+}
+
+#profil3 {
+    height: 3vw;
+    width: 4.5vw;
+    border-radius: 100px;
+    background-color: #D9D9D9;
+    margin-top: 43vw;
+    margin-left: 28vw;
+}
+
+#name1 {
+    margin-top: 43.2vw;
+    margin-left: -60.5vw;
+    font-size: 1.1vw;
+}
+
+#kover1 {
+    font-weight: bold;
+    width: 10vw;
+}
+
+#name2 {
+    margin-top: 43.2vw;
+    margin-left: 23.5vw;
+    font-size: 1.1vw;
+}
+
+#kover2 {
+    font-weight: bold;
+}
+
+#name3 {
+    margin-top: 43.2vw;
+    margin-left: 24.7vw;
+    font-size: 1.1vw;
+}
+
+#kover3 {
+    font-weight: bold;
+    width: 10vw;
+}
+
+#logo2 {
+    width: 4.5vw;
+    height: 4.5vw;
+    margin-top: 50vw;
+    margin-left: -79.5vw;
+    border-radius: 100px;
+}
+
+#link1 {
+    margin-left: 12vw;
+}
+
+#insta {
+    width: 4vw;
+    height: 4vw;
+    margin-top: -0.5vw;
+
+}
+
+#link2 {
+    margin-left: 30vw;
+    font-size: 1.1vw;
+}
+
+#facebook {
+    width: 2.5vw;
+    height: 2.5vw; 
+    margin-left: -17vw;
+    margin-top: -1vw;
+    padding-bottom: 0.7vw;
+    
+    
+}
+
+#link3 {
+    margin-left: 45vw;
+}
+
+#x {
+    width: 4vw;
+    height: 3vw;
+    margin-top: -5vw;
+    padding-bottom: 0.2vw;
+}
+
+#link4 {
+    margin-left: 60vw;
+
+}
+
+#youtube {
+    width: 3.5vw;
+    height: 3.5vw;
+    margin-top: -8vw;
+    padding-bottom: 1.3vw;
+    margin-left: -6vw;
+    
+}
+
+#foot1 {
+    margin-top: 5vw;
+    margin-left: 5vw;
+    color: hsl(0, 5%, 30%);
+    font-size: 1.1vw;
+}
+
+#foot2 {
+    margin-left: 37vw;
+    margin-top: -1.3vw;
+    color: hsl(0, 5%, 30%);
+    font-size: 1.1vw;
+}
+
+#foot3 {
+    margin-top: -1.3vw;
+    color: hsl(0, 5%, 30%);
+    font-size: 1.1vw;
+    padding-bottom: 3vw;
+    margin-left: 60vw;
+}
+
+#feet {
+    height: 20vw;
+    margin-top: 52.3vw;
+}
+
+
+
+
+
+@media only screen and (max-width: 1000px) {
+    #wrapper2 {
+        flex-direction: block;
+        width: 99.5%;
+    }
+    #menu {
+        height: 13vw;
+        align-items: center;
+    }
+
+    #logo1 {
+        margin-left: 44vw;
+        width: 11vw;
+        height: 11vw;
+    }
+        
+    
+    #etlap {
+        display: none;
+    
+    }
+    
+    #rolunk {
+        display: none;
+    }
+
+    #cim {
+        display: none;
+    }
+
+    #leiras {
+        margin-left: -70vw;
+        margin-top: 70vw;
+        width: 50vw;
+        order: 1;
+        text-align: center;
+    }
+
+    #yap {
+        font-size: 5vw;
+        margin-left: -24vw;
+        width: 80vw;
+        padding-left: 10vw;
+        padding-right: 11vw;
+        border-bottom: 1px solid black;
+        padding-bottom: 4vw;
+    }
+
+    #kep1 {
+        margin-left: 25vw;
+        height: 60vw;
+        width: 48vw;
+        margin-top: 0vw;
+        order: 0;
+        
+    }
+
+    #hat {
+        height: 65vw;
+        width: 100.5%;
+        background-color: #EAE0D5;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+
+    #name1 {
+        display: none;
+    }
+
+    #kover1 {
+        display: none;
+    }
+
+    #name3 {
+        display: none;
+    }
+
+    #kover3 {
+        display: none;
+    }
+
+    #tart3 {
+        display: none;
+    }
+
+    #tart5 {
+        display: none;
+    }
+
+    #profil1 {
+        display: none;
+    }
+    #profil2 {
+        display: none;
+    }
+    #profil3 {
+        display: none;
+    }
+
+    #tart1 {
+        margin-left: -36.5vw;
+        height: 6.3vw;
+        width: 33vw;
+       text-align: unset;
+    }
+
+    #gomb1 {
+    padding-top: 0vw;
+    padding-bottom: 0.5vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    background-color: #2C3E50;
+    height: 3.8vw;
+    border-radius: 1vw;
+    text-decoration: none;
+    color: #D9D9D9;
+    font-size: 3.8vw;
+    margin-top: 28vw;
+    margin-left: -64vw;
+    border: 2px solid #D9D9D9;
+    width: 21vw;
+    text-align: center;
+    }
+
+    #tart2 {
+        margin-top: 40vw;
+        margin-left: -33.2vw;
+        height: 6.3vw;
+        width: 33vw;
+        text-align: unset;
+    }
+
+    #gomb2 {
+    padding-top: 0vw;
+    padding-bottom: 0.5vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    background-color: white;
+    height: 3.8vw;
+    border-radius: 1vw;
+    text-decoration: none;
+    color: #2C3E50;
+    font-size: 3.8vw;
+    margin-top: 35vw;
+    margin-left: -26vw;
+    border: 2px solid #2C3E50;
+    width: 21vw;
+    }
+
+    #logo2 {
+        display: none;
+    }
+
+    #link1 {
+        margin-left: -45vw;
+        margin-top: 80vw;
+        width: 5vw;
+    }
+
+    #insta {
+        width: 8.5vw;
+        height: 8.5vw;
+        margin-left: 0vw;
+        margin-top: 80vw;
+        margin-bottom: -0.5vw;
+    }
+
+    #link2 {
+     margin-left: -20vw;
+     margin-top: -8vw;
+     width: 30px;
+     
+    }
+
+    #facebook {
+        width: 5.5vw;
+        height: 5.5vw; 
+        margin-top: -8vw;
+        margin-left: 35vw;
+        margin-bottom: 1vw;
+    }
+
+    #link3 {
+        margin-top: -3.3vw;
+        margin-left: -5vw;
+        width: 5vw;
+    }
+
+    #x {
+        width: 8vw;
+        height: 6vw;
+        margin-left: 20vw;
+        margin-top: 80vw;
+        margin-bottom: 0.5vw;
+    }
+
+    #link4 {
+        margin-top: -3.8vw;
+        font-size: 3vw;
+        margin-left: 25vw;
+
+    }
+
+    #youtube {
+        width: 7vw;
+        height: 7vw;
+        margin-left: -10vw;
+        margin-top: 0.5vw;
+    }
+
+    #name2 {
+        margin-left: -41vw;
+        margin-top: 110vw;
+        font-size: 2.5vw;
+    }
+
+    #kover2 {
+        font-size: 3.5vw;
+    }
+
+    #tart4 {
+        margin-left: 0vw;
+        font-size: 2.5vw;
+    }
+
+    #vel2 {
+        margin-top: 81vw;
+        margin-left: -32vw;
+        width: 35vw;
+        font-size: 2.5vw;
+        border-top: 1px solid black;
+    }
+
+    #foot1 {
+        margin-top: 10vw;
+        margin-left: -50vw;
+        font-size: 1.5vw;
+    }
+
+    #foot2 {
+        margin-top: -1.2vw;
+        margin-left: -7vw;
+        font-size: 1.5vw;
+    }
+
+    #foot3 {
+        margin-left: 25vw;
+        margin-top: -1.2vw;
+        font-size: 1.5vw;
+    }
+    }
+
